@@ -5,6 +5,7 @@
 QuickRedis is a library that help you implement Redis quickly with useful methods.
 
 ![Nuget](https://img.shields.io/nuget/v/QuickRedis?label=QuickRedis)
+![Nuget](https://img.shields.io/nuget/dt/QuickRedis?label=QuickRedis%20Downloads)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## How to use
